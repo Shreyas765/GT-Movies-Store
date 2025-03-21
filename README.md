@@ -2,7 +2,7 @@
 
 An online movie store web application built with Django. This project allows users to browse, search, and purchase movies with an integrated cart system.
 
-#Features
+# Features
 User authentication (login/register/logout)
 Movie browsing and searching
 Shopping cart functionality
@@ -11,7 +11,7 @@ Admin interface to manage content
 Responsive front-end design
 
 
-#Tech Stack
+# Tech Stack
 Backend: Django, SQLite
 Frontend: HTML, CSS
 Hosting: Vercel (configured with vercel.json)
